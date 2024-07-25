@@ -1,0 +1,57 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.logo img{
+  width: 300px;
+}
+
+
+
+.cont_input{
+  display: flex;
+  width: 100%;
+
+  img{
+    width: 25px;
+    margin-left: 5px;
+  }
+;
+
+}
+
+.cont_btn .btn{
+  width: 150px;
+  background-color:#1d65a3;
+
+  a{ 
+  color: white;
+  text-decoration: none;
+  }
+}
+
+.cont_btn .btn:hover{
+  background-color:#338ad6
+}
+
+
+
+.rol{
+  width: 120px;
+}
+
+
+.cont_alerta{
+  margin-top: -12px;
+  height: 40px;
+  width: 100%;
+  line-height: 1;
+  svg{
+    width: 20px;
+    height: 20px;
+  }
+}
